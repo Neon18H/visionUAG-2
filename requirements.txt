@@ -1,0 +1,5 @@
+cv2
+numpy
+pyttsx3
+ultralytics
+speech_recognition
